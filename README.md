@@ -13,7 +13,7 @@ Hello, I'm Maks, a passionate software developer with a love for coding and tech
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MoveZZZZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MoveZZZZ&theme=dark&hide_border=false)<br/>
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoveZZZZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=CloneIMDB&layout=compact)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoveZZZZ&theme=dark&hide_border=false&count_private=true&exclude_repo=CloneIMDB&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MoveZZZZ&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
